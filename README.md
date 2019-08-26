@@ -11,6 +11,6 @@
 *Easy to understand, presentable to people with no coding background
 
 ## Tools used
-* Selenium
-* Visual Studio
-* SpecFlow
+1. Selenium
+1. Visual Studio
+1. SpecFlow
