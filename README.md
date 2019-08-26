@@ -26,4 +26,4 @@ Automation Testing is the act of writing scripts that test a software. The scrip
 
 
 ## SpecFlow example
-![SpecFlow](example.jpg)
+![SpecFlow](example.png)
