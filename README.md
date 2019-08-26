@@ -16,5 +16,13 @@ Automation Testing is the act of writing scripts that test a software. The scrip
 
 
 ## Some cool links!
-	[My LinkedIn](https://www.linkedin.com/in/dylanrongey/)
-  [Selenium website and documentation](https://www.seleniumhq.org/)
+
+[LinkedIn](https://www.linkedin.com/in/dylanrongey/)		
+		
+[Selenium website and documentation](https://www.seleniumhq.org/)
+
+[The company I interned with](https://wellsky.com/)
+
+
+
+##
