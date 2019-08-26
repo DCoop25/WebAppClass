@@ -25,9 +25,13 @@ Automation Testing is the act of writing scripts that test a software. The scrip
 
 
 
-## SpecFlow example
+## Images
 
 This is an example of the steps that an Automated Test will follow, it is in plain english. Each sentence has steps written in code linked to it. It's actually pretty interesting, and useful for find bugs as well as planning out workflows.
 ![](https://github.com/DCoop25/WebAppClass/blob/master/Example.png)
+
+Heres a photo of me and my co-interns this summer
+![](https://github.com/DCoop25/WebAppClass/blob/master/Capture.PNG)
+
 
 
